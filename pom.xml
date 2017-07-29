@@ -46,7 +46,7 @@
         <dependency>
             <groupId>org.kitteh</groupId>
             <artifactId>VanishNoPacket</artifactId>
-            <version>3.19.3</version>
+            <version>3.2</version>
             <scope>provided</scope>
             <exclusions>
             	<exclusion>
@@ -124,10 +124,10 @@
         	<id>sk89q-repo</id>
         	<url>http://maven.sk89q.com/artifactory/repo/</url>
         </repository>
-		<!--<repository>fuckyou
+		<repository>
 			<id>kitteh-repo</id>
-			<url>http://repo.kitteh.org/content/groups/public</url>
-		</repository>-->
+			<url>http://repo.kitteh.org/content/groups/public </url>
+		</repository>
     </repositories>
 
     <build>
