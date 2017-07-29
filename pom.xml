@@ -92,8 +92,8 @@
     </dependencies>
 
     <repositories>
-    	<repository>
-    		<!--<id>codingforcookies-releases</id>
+    	<!--<repository>
+    		<id>codingforcookies-releases</id>
     		<url>http://repo.codingforcookies.com/artifactory/releases</url>
     	</repository>-->
     	<!--<repository>
