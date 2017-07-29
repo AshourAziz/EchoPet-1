@@ -78,7 +78,7 @@
         	<artifactId>worldguard</artifactId>
         	<version>6.1.1-SNAPSHOT</version>
         </dependency>
-        <dependency>
+       <!-- <dependency>
         	<groupId>com.codingforcookies</groupId>
         	<artifactId>robert</artifactId>
         	<version>1.11-SNAPSHOT</version>
@@ -88,18 +88,18 @@
 				<groupId>org.spigotmc</groupId>
 			</exclusion>
 	      </exclusions>
-        </dependency>
+        </dependency>-->
     </dependencies>
 
     <repositories>
     	<repository>
-    		<id>codingforcookies-releases</id>
+    		<!--<id>codingforcookies-releases</id>
     		<url>http://repo.codingforcookies.com/artifactory/releases</url>
-    	</repository>
-    	<repository>
+    	</repository>-->
+    	<!--<repository>
     		<id>codingforcookies-snapshots</id>
     		<url>http://repo.codingforcookies.com/artifactory/snapshots</url>
-    	</repository>
+    	</repository>-->
         <repository>
             <id>spigot-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
