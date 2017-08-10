@@ -31,11 +31,7 @@
 	<module>./modules/v1_11_R1</module>
     <module>./modules/v1_12_R1</module>
   </modules>
-   <scm>		 +
-    <connection>scm:git:git://github.com/mbax/VanishNoPacket.git</connection>		
-    <developerConnection>scm:git:ssh://git@github.com/mbax/VanishNoPacket.git</developerConnection>		
-    <url>s://www.github.com/mbax/VanishNoPacket</url>		
-  </scm>
+
     <dependencies>
         <dependency>
             <groupId>org.spigotmc</groupId>
@@ -94,6 +90,11 @@
 	      </exclusions>
         </dependency>-->
     </dependencies>
+	     <scm>		 +
+    <connection>scm:git:git://github.com/mbax/VanishNoPacket.git</connection>		
+    <developerConnection>scm:git:ssh://git@github.com/mbax/VanishNoPacket.git</developerConnection>		
+    <url>s://www.github.com/mbax/VanishNoPacket</url>		
+  </scm>
     <repositories>
 	    <repository>
             <id>collab-repo</id>
