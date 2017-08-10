@@ -122,7 +122,7 @@
         <repository>
             <id>ess3-repo</id>
             <url>http://repo.ess3.net/content/repositories/kittehsnapshots/</url>
-        </repository>-->
+        </repository>
 	        <repository>
             <id>cnaude-repo</id>
             <url>http://cnaude.org/repo/</url>
