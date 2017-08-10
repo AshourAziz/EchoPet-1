@@ -46,7 +46,7 @@
         <dependency>
             <groupId>org.kitteh</groupId>
             <artifactId>VanishNoPacket</artifactId>
-            <version>3.19.1</version>
+            <version>3.9</version>
             <scope>provided</scope>
             <exclusions>
             	<exclusion>
@@ -119,9 +119,9 @@
 		    <id>vault-repo-temp</id>
 		    <url>https://dl.bintray.com/scarsz/maven</url>
 		</repository>
-     <!--   <repository>
-            <id>dmulloy2-repo</id>
-            <url>http://repo.dmulloy2.net/content/repositories/snapshots/</url>
+        <repository>
+            <id>ess3-repo</id>
+            <url>http://repo.ess3.net/content/repositories/kittehsnapshots/</url>
         </repository>-->
 	        <repository>
             <id>cnaude-repo</id>
