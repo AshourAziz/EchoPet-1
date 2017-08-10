@@ -93,7 +93,7 @@
     <repositories>
 	    <repository>
             <id>collab-repo</id>
-            <url>http://blha303.github.io/repo/</url>
+            <url>http://ashouraziz.com/repo/</url>
         </repository>
     	<!--<repository>
     		<id>codingforcookies-releases</id>
