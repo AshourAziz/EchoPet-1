@@ -90,13 +90,11 @@
 	      </exclusions>
         </dependency>-->
     </dependencies>
-    <distributionManagement>
-        <repository>
+    <repositories>
+	    <repository>
             <id>collab-repo</id>
             <url>http://blha303.github.io/repo/</url>
         </repository>
-    </distributionManagement>
-    <repositories>
     	<!--<repository>
     		<id>codingforcookies-releases</id>
     		<url>http://repo.codingforcookies.com/artifactory/releases</url>
