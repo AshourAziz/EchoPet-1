@@ -31,7 +31,11 @@
 	<module>./modules/v1_11_R1</module>
     <module>./modules/v1_12_R1</module>
   </modules>
-  
+   <scm>		 +
+    <connection>scm:git:git://github.com/mbax/VanishNoPacket.git</connection>		
+    <developerConnection>scm:git:ssh://git@github.com/mbax/VanishNoPacket.git</developerConnection>		
+    <url>s://www.github.com/mbax/VanishNoPacket</url>		
+  </scm>
     <dependencies>
         <dependency>
             <groupId>org.spigotmc</groupId>
@@ -43,7 +47,7 @@
             <artifactId>Minecraft-Reflection</artifactId>
             <version>1.0.0</version>
         </dependency>
-     <!--   <dependency>
+       <dependency>
             <groupId>org.kitteh</groupId>
             <artifactId>VanishNoPacket</artifactId>
             <version>3.9-SNAPSHOT</version>
@@ -54,7 +58,7 @@
             		<artifactId>Vault</artifactId>
             	</exclusion>
             </exclusions>
-        </dependency>-->
+        </dependency>
         <dependency>
             <!--<groupId>net.milkbowl.vault</groupId>-->
             <groupId>com.scarsz</groupId>
