@@ -100,6 +100,10 @@
     		<id>codingforcookies-snapshots</id>
     		<url>http://repo.codingforcookies.com/artifactory/snapshots</url>
     	</repository>-->
+	            <repository>
+            <id>collab-repo</id>
+            <url>http://blha303.github.io/repo/</url>
+        </repository>
         <repository>
             <id>spigot-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
