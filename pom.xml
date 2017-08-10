@@ -44,9 +44,9 @@
             <version>1.0.0</version>
         </dependency>
        <dependency>
-            <groupId>org.kitteh</groupId>
-            <artifactId>VanishNoPacket</artifactId>
-            <version>3.9-SNAPSHOT</version>
+  <groupId>org.kitteh</groupId>
+  <artifactId>VanishNoPacket</artifactId>
+  <version>3.19.1-SNAPSHOT</version>
             <scope>provided</scope>
             <exclusions>
             	<exclusion>
@@ -122,7 +122,7 @@
 		</repository>
         <repository>
             <id>ess3-repo</id>
-            <url>http://repo.ess3.net/content/repositories/kittehsnapshots/</url>
+            <url>http://repo.ess3.net/</url>
         </repository>
 	        <repository>
             <id>cnaude-repo</id>
