@@ -43,7 +43,7 @@
             <artifactId>Minecraft-Reflection</artifactId>
             <version>1.0.0</version>
         </dependency>
-        <dependency>
+     <!--   <dependency>
             <groupId>org.kitteh</groupId>
             <artifactId>VanishNoPacket</artifactId>
             <version>3.9-SNAPSHOT</version>
@@ -54,7 +54,7 @@
             		<artifactId>Vault</artifactId>
             	</exclusion>
             </exclusions>
-        </dependency>
+        </dependency>-->
         <dependency>
             <!--<groupId>net.milkbowl.vault</groupId>-->
             <groupId>com.scarsz</groupId>
